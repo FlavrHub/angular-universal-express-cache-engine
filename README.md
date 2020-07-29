@@ -3,6 +3,8 @@
 Express enging that catches the request by the url so that the request doesn't have to go through all the Angular
 Universal each time. Really handy to cache static pages.
 
+Uses the [cache-manager](https://github.com/BryanDonovan/node-cache-manager) package for catching, which can be used with a bunch of different engines, checkout it documentation for futher information.
+
 ## Instalation
 
 Just place the [express-engine.ts](./express-engine.ts) file in your project and in your server.ts replace:
