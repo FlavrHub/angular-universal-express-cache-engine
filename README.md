@@ -56,9 +56,9 @@ export interface RouteCache {
 
 ### Before catching
 
-<img src="./before.jpg">
+![Before catching](before.png)
 
 ### After catching
 
-<img src="./after.jpg">
+![After catching](after.png)
 
