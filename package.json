@@ -1,0 +1,28 @@
+{
+  "name": "@flavrhub/angular-universal-express-cache-engine",
+  "version": "0.0.0",
+  "description": "Express Engine with Cache for running Server Angular Apps",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "cache",
+    "express",
+    "ssr",
+    "universal"
+  ],
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.1",
+    "@angular/core": "^9.1",
+    "@angular/platform-server": "^9.1",
+    "@nguniversal/common": "^9.1",
+    "@nguniversal/express-engine": "^9.1",
+    "express": "^4.1"
+  },
+  "dependencies": {
+    "@nguniversal/common": "^9.1",
+    "tslib": "^1.10"
+  }
+}
