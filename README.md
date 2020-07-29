@@ -50,4 +50,13 @@ export interface RouteCache {
 * ttl: Time to live in cache in seconds. Default: 60 seconds.
 * isCacheableValue: A function that decide if a value is cacheable on the fly
 
+## Results
+
+### Before catching
+
+<img src="./before.jpg">
+
+### After catching
+
+<img src="./after.jpg">
 
